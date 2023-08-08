@@ -1,0 +1,5 @@
+- a mesma pessoa tem duas caixas
+- duas pessoas identificadas como uma
+- trajetorias: como guardar os ultimos n-centroids de cada região quando o numero de regiões nem sequer é fixo
+-labels trocam, há problema?
+- o que podemos apresentar no ponto 4)?
