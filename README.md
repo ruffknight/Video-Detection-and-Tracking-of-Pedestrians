@@ -12,6 +12,12 @@ The "Detection and Tracking of Pedestrians" project, developed as part of the Vi
 
 The project is centered around designing and implementing a video surveillance system that can accurately detect pedestrians and track their trajectories across consecutive frames. By harnessing the power of computer vision, the system identifies key points of interest within the video and traces the movement patterns of pedestrians over time. This application has implications for security, crowd management, and public safety.
 
+### Technology Stack
+
+The project utilizes the following stack:
+
+- Matlab and Python for implementing computer vision algorithms and analysis.
+
 ### Team Members
 
 | Name               | ISTID     |
@@ -19,6 +25,21 @@ The project is centered around designing and implementing a video surveillance s
 | Catarina Rodrigues | 87817     |
 | Daniela Mendes     | 87646     |
 | Vasco Pires        | 87708     |
+
+## Datasets
+
+To validate the algorithm's effectiveness, the project draws upon benchmark datasets, particularly the PETS family dataset. The chosen subset, S2.L1, provides diverse sequences and viewpoints of pedestrians in varying environments. Each sequence is accompanied by ground truth data, encompassing object locations and sizes (bounding boxes) for each frame.
+
+## Project Tasks
+
+The project dives into several critical tasks, including:
+
+1. Implementation of pedestrian tracking with visible bounding boxes for detections.
+2. Dynamic plotting of pedestrian trajectories for clear visualization.
+3. Integration of pedestrian labeling to facilitate identification.
+4. Provision of a map illustrating pedestrian trajectories within the video.
+5. Exploration of heatmap generation based on the frequency of occurrences in distinct image regions.
+6. Investigation into the incorporation of optical flow information to capture pedestrian motion.
 
 ## Getting Started
 
