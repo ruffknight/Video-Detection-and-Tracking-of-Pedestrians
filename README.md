@@ -1,6 +1,6 @@
 # Video Detection and Tracking of Pedestrian Surveillance
 
-![Pedestrian Detection and Tracking](https://i.ibb.co/Yp2vnQg/Screenshot-2023-08-08-at-16-52-50.png)
+![Pedestrian Detection and Tracking](https://i.ibb.co/gTV74Br/pedestriandetectioncover.png)
 
 ## Introduction
 
